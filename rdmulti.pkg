@@ -1,0 +1,20 @@
+v 0.2
+d STATA Package: RDMULTI
+d 
+d Authors: Matias D. Cattaneo, Department of Economics, University of Michigan, cattaneo@umich.edu
+d          Rocio Titiunik, Department of Political Science, University of Michigan, titiunik@umich.edu
+d          Gonzalo Vazquez-Bare, Department of Economics, University of Michigan, gvazquez@umich.edu
+d
+d Date: 16-Jul-2018
+d 
+f rdmc.ado
+f rdmc.sthlp
+f rdmcplot.ado
+f rdmcplot.sthlp
+f rdms.ado
+f rdms.sthlp
+
+
+
+
+
